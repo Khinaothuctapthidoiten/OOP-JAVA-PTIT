@@ -1,39 +1,11 @@
-[baitap_codeptit (1).html](https://github.com/user-attachments/files/33509964/baitap_codeptit.1.html)
+
 <!DOCTYPE html>
 <html lang="vi">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<style>
-body {
-    margin: 18px;
-    font-family: Arial, sans-serif;
-    color: #15345b;
-}
-table {
-    width: min(100%, 570px);
-    border-collapse: collapse;
-    font-size: 14px;
-}
-th, td {
-    border: 1px solid #cbd6e2;
-    padding: 10px 13px;
-    text-align: left;
-}
-th {
-    background: white;
-    font-weight: bold;
-}
-tbody tr:nth-child(even) {
-    background: #f1f4f7;
-}
-tbody tr:nth-child(odd) {
-    background: white;
-}
-td:first-child {
-    white-space: nowrap;
-}
+
 </style>
 </head>
 <body>
