@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Danh sách bài tập CodePTIT</title>
+
 <style>
 body {
     margin: 18px;
